@@ -31,12 +31,10 @@
 
 ## 🌟 Featured Repositories & Work
 
-- 📦 **[multimodule-springboot-application](https://github.com/tareqmy/multimodule-springboot-application)** — Production-grade multi-module Spring Boot application template.
-- 🔌 **[ari4java](https://github.com/tareqmy/ari4java)** *(Forked)* — Asterisk REST Interface (ARI) bindings for Java.
-- 🐘 **[postgres](https://github.com/tareqmy/postgres)** — Dockerized PostgreSQL configuration with custom convenience scripts.
-- 📞 **[asterisk-java](https://github.com/tareqmy/asterisk-java)** *(Forked)* — Free Java library for Asterisk PBX integration.
-- 💡 **[dsa](https://github.com/tareqmy/dsa)** — Data structures and algorithms implementation in Java.
-- 📐 **[headfirstdesignpatterns](https://github.com/tareqmy/headfirstdesignpatterns)** — Java implementation of classic Head First design patterns.
+- 🛠️ **[gitwig](https://github.com/tareqmy/gitwig)** — Lightweight CLI & tooling utility for Git workflow optimization.
+- 📇 **[kalimacards.com](https://github.com/tareqmy/kalimacards.com)** — Web application & platform repository for Kalima Cards.
+- 📝 **[ferronote](https://github.com/tareqmy/ferronote)** — Modern, lightweight note-taking and management application.
+- 🌐 **[mm3webclient](https://github.com/tareqmy/mm3webclient)** — Web client application designed for MM3 system integration.
 
 ---
 
