@@ -17,18 +17,6 @@
 
 ---
 
-## 🛠️ Tech Stack & Skills
-
-| Category | Skill Set |
-| :--- | :--- |
-| **Languages** | Java, SQL, Shell Scripting |
-| **Frameworks & Libraries** | Spring Boot, Spring Cloud, JUnit, Mockito |
-| **Cloud & DevOps** | AWS (4x Certified), Docker, CI/CD, PostgreSQL, Redis |
-| **Telephony & VoIP** | Asterisk, ARI, SIP |
-| **Architecture** | Microservices, Multi-module Maven/Gradle, Enterprise Patterns, Distributed Systems |
-
----
-
 ## 🌟 Featured Repositories & Work
 
 - 🛠️ **[gitwig](https://github.com/tareqmy/gitwig)** — Lightweight CLI & tooling utility for Git workflow optimization.
