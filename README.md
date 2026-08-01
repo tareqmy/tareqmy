@@ -40,9 +40,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tareqmy&show_icons=true&theme=nord&count_private=true" alt="Tareq's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=tareqmy&layout=compact&theme=nord&hide=html,css" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tareqmy&theme=nord" alt="Tareq's GitHub Streak" />
 </p>
 
 ---
