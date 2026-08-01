@@ -31,9 +31,12 @@
 
 ## 🌟 Featured Repositories & Work
 
-- 📦 **[multimodule-springboot-application](https://github.com/tareqmy/multimodule-springboot-application)** — Production-grade multi-module Spring Boot setup.
-- 🔌 **[ari4java](https://github.com/tareqmy/ari4java)** — Java interface bindings for Asterisk REST Interface (ARI).
-- 🐘 **[postgres](https://github.com/tareqmy/postgres)** — Dockerized PostgreSQL setup with helper/convenience scripts.
+- 📦 **[multimodule-springboot-application](https://github.com/tareqmy/multimodule-springboot-application)** — Production-grade multi-module Spring Boot application template.
+- 🔌 **[ari4java](https://github.com/tareqmy/ari4java)** *(Forked)* — Asterisk REST Interface (ARI) bindings for Java.
+- 🐘 **[postgres](https://github.com/tareqmy/postgres)** — Dockerized PostgreSQL configuration with custom convenience scripts.
+- 📞 **[asterisk-java](https://github.com/tareqmy/asterisk-java)** *(Forked)* — Free Java library for Asterisk PBX integration.
+- 💡 **[dsa](https://github.com/tareqmy/dsa)** — Data structures and algorithms implementation in Java.
+- 📐 **[headfirstdesignpatterns](https://github.com/tareqmy/headfirstdesignpatterns)** — Java implementation of classic Head First design patterns.
 
 ---
 
