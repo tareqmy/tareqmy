@@ -1,10 +1,10 @@
 # Hi there, I'm Tareq Mohammad Yousuf 👋
 
-### Software Architect | Team Lead | 4x AWS Certified | Java Specialist
+### Software Architect | Team Lead | 4x AWS Certified
 
 📍 **Based in:** Dhaka, Bangladesh  
 🌐 **Website:** [tareqmy.com](https://tareqmy.com/)  
-💼 **LinkedIn:** [linkedin.com/in/tareqmy](https://linkedin.com) *(update with your link)*  
+💼 **LinkedIn:** [linkedin.com/in/tareqmy](https://linkedin.com)
 
 ---
 
